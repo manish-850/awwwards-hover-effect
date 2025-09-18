@@ -29,7 +29,7 @@ When you hover over a name, an image smoothly appears and follows the cursor wit
 ---
 
 ## 🖼️ Preview
-| ![Preview](https://github.com/manish-850/awwwards-hover-effect/preview.gif) |
+![Preview](preview.gif)
 
 ---
 
