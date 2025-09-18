@@ -29,11 +29,7 @@ When you hover over a name, an image smoothly appears and follows the cursor wit
 ---
 
 ## 🖼️ Preview
-| Hover Example |
-|---------------|
-| ![Preview](https://github.com/your-username/your-repo-name/raw/main/preview.gif) |
-
-*(Add a screenshot or screen recording as `preview.gif` in your repo for better presentation)*
+| ![Preview](https://github.com/manish-850/awwwards-hover-effect/preview.gif) |
 
 ---
 
